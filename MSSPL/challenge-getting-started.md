@@ -1,46 +1,12 @@
-# Create and Publish Power BI Dashboards & Reports
+# Getting started with Challenge Environment
 
-### Overall Estimated Duration: 4 Hours
+### Overall Estimated Duration : 4 Hours
 
-## Overview
-
-In this lab, you will learn how to create and publish Power BI dashboards and reports. Utilizing a pre-created report, you will go through the steps to publish it to the Power BI Service. The lab covers essential skills such as applying conditional formatting, adding logos, importing custom visuals, and applying custom themes. Additionally, you will explore how to use bookmarks to enhance storytelling within your reports. Detailed instructions, along with visual aids and screenshots, guide you through each step of the process, ensuring you gain practical experience with Power BI's powerful features.
-
-## Objective
-
-Understand report creation and dashboard management in Power BI. By the end of this lab, you will gain insights on:
-
-- **Create and Publish a Report:** Develop a comprehensive Power BI report, incorporating conditional formatting, custom visuals, and themes, and publish it to the Power BI Service.
-- **Build and Organize a Dashboard:** Construct and organize a Power BI dashboard to effectively visualize and present data from the report.
-- **Enhance Report Presentation:** Utilize features such as custom logos, conditional formatting, and bookmarks to create an engaging and informative report narrative.
-
-## Pre-requisites
-
-- Basic Knowledge of Power BI
-- Access to Power BI Desktop and Service
-- Understanding of Report Design Principles
-
-## Architecture
-
-In this lab, you'll start with a pre-created Power BI report and follow a structured process to enhance and publish it. Initially, you will apply conditional formatting to highlight important data points within the report. Next, you'll add logos to the visuals and filters to incorporate branding elements. After that, you'll import and integrate custom visuals to enrich the data representation. You will then apply a custom theme to ensure the report aligns with specific design guidelines. To enhance storytelling, you'll use bookmarks to create a narrative flow within the report. Finally, you'll publish the completed report to the Power BI Service for sharing and collaboration. Detailed instructions and visual aids will guide you through each step, ensuring you gain practical experience with Power BI's features.
-
-## Architecture Diagram
-
-![image](../Images/arch1.PNG )
-
-## Explanation of Components
-
-- **Pre-Created Report:** A Power BI report with existing data and visuals, used as the foundation for further customization and enhancement tasks.
-
-- **Conditional Formatting:** A technique used to modify the appearance of report visuals based on data-driven conditions, highlighting key information.
-
-- **Custom Visuals:** Specialized visual elements imported into Power BI to offer unique data representations and enhance the visual appeal of the report.
-
-- **Power BI Service:** The cloud-based platform where the completed report is published for sharing, collaboration, and online access.
+Welcome to Copilot Hackathon, We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.sharing, collaboration, and online access.
   
-## Getting Started with the Lab
- 
-Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
+### Accessing Your Challenge Environment
+
+Once you're ready to dive in, your virtual machine and Challenge guide will be right at your fingertips within your web browser.
 
   ![02](../Images/12062025(0)new.png)
 
@@ -48,15 +14,15 @@ Once you're ready to dive in, your virtual machine and lab guide will be right a
  
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
  
-## Exploring Your Lab Resources
- 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+### Exploring Your Challenge Resources
+
+To get a better understanding of your Challenge resources and credentials, navigate to the **Environment** tab.
 
    ![image](../Images/power-02new.png)
 
-## Utilizing the Split Window Feature
- 
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+### Utilizing the Split Window Feature
+
+For convenience, you can open the Challenge guide in a separate window by selecting the Split Window button from the Top right corner
 
    ![image](../Images/power-03new.png)
    
@@ -138,16 +104,8 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
    ![02](../Images/image107.png)
 
-## Support Contact
+1. Keep this browser tab open, you will be using this further.
 
-The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
-
-Learner Support Contacts:
-
-- Email Support: cloudlabs-support@spektrasystems.com
-  
-- Live Chat Support: https://cloudlabs.ai/labs-support
-
-Click **Next** from the bottom right corner to embark on your Lab journey!
+1. Now, click on the **Next** from lower right corner to move on next page.
 
 ## Happy Learning!!
