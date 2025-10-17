@@ -10,10 +10,6 @@ Once you're ready to dive in, your virtual machine and Challenge guide will be r
 
   ![02](../Images/12062025(0)new.png)
 
-## Virtual Machine & Lab Guide
- 
-Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
- 
 ### Exploring Your Challenge Resources
 
 To get a better understanding of your Challenge resources and credentials, navigate to the **Environment** tab.
