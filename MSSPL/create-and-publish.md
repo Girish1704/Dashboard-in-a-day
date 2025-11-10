@@ -66,9 +66,9 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    ![](../Images/pr6.png)
 
-2. While still in the **View** **(1)** tab, turn off **Gridlines** and **Snap to Grid** **(2)**, and also turn off the **Selection pane** **(3)**.
+2. While still in the **View** **(1)** tab, turn off **Visual_Gridline_Show** and **Snap to Grid** **(2)**, and also turn off the **Selection pane** **(3)**.
 
-   ![](../Images/pr7.png)
+   ![](../Images/E1T1S8.png)
 
 1. Drag the **Revenue by Year and Manufacturer** line chart below the card on the phone layout. Resize the line chart to stretch across the phone layout.
 
